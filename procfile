@@ -1,1 +1,1 @@
-web: python nuki.py
+web: python main.py
